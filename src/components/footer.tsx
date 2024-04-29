@@ -54,7 +54,7 @@ export const Footer = () => {
                 </a> */}
               </div>
             </div>
-            <img src="/src/assets/home/device-mobile.png" className="w-full max-w-[75.6rem] h-auto absolute -top-31 right-0 translate-x-38 hidden lg:block" alt="mobile web" />
+            <img src="home/device-mobile.png" className="w-full max-w-[75.6rem] h-auto absolute -top-31 right-0 translate-x-38 hidden lg:block" alt="mobile web" />
           </div>
         </div>
       </section>

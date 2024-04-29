@@ -24,7 +24,7 @@ export const Header = () => {
         <nav className="bg-white p-5 w-full">
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-[122rem]">
             <a href="/" className="flex items-center">
-              <img src="/src/assets/logos/logo@2x.png" className="w-auto h-20" alt="Ana loaisa Logo" />
+              <img src="logos/logo@2x.png" className="w-auto h-20" alt="Ana loaisa Logo" />
             </a>
             
             <div className="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">

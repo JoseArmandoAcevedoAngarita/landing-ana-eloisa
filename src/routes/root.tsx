@@ -12,9 +12,9 @@ function Root() {
           <main role="main" className="flex-grow">
 
             <section id="ana-eloisa" className="w-full" >
-              <div className="w-full h-[64rem] md:h-[86rem] bg-cover relative overflow-hidden" style={{backgroundImage: "url('/src/assets/home/main-banner/banner@2x.png')"}}>
+              <div className="w-full h-[64rem] md:h-[86rem] bg-cover relative overflow-hidden" style={{backgroundImage: "url('home/main-banner/banner@2x.png')"}}>
                 <div className="flex h-full w-full max-w-[120.8rem] mx-auto px-6">
-                  <img src="/src/assets/home/main-banner/ana-banner@2x.png" className="w-auto h-[48rem] md:h-[76rem] self-end" alt="ana loisa" />
+                  <img src="home/main-banner/ana-banner@2x.png" className="w-auto h-[48rem] md:h-[76rem] self-end" alt="ana loisa" />
                   <div className="block self-center">
                     <div className="mb-5 md:mb-15">
                       <h1 className="text-white roboto-bold text-40 leading-[5.6rem] md:text-80 md:leading-[10.4rem]">
@@ -39,7 +39,7 @@ function Root() {
 
             <section id="que-es-pennials" className="w-full" >
               <div className="w-full bg-dove-gray-50 py-5">
-                <img src="/src/assets/home/perennals/PERENIALS@2x.png" className="block mx-auto w-auto h-17" alt="perennals" />
+                <img src="home/perennals/PERENIALS@2x.png" className="block mx-auto w-auto h-17" alt="perennals" />
               </div>
 
               <div className="bg-white w-full py-20">
@@ -77,7 +77,7 @@ function Root() {
                       <div className="flex flex-col items-center">
                         <img
                           className="w-49 h-49 mb-8 rounded-full shadow-lg"
-                          src="/src/assets/home/historias-de-exito/Adriana-Saenz@2x.png"
+                          src="home/historias-de-exito/Adriana-Saenz@2x.png"
                           alt="Bonnie image"
                         />
                         <h5 className="roboto-medium mb-8 text-30 text-black ">
@@ -95,7 +95,7 @@ function Root() {
                       <div className="flex flex-col items-center">
                         <img
                           className="w-49 h-49 mb-8 rounded-full shadow-lg"
-                          src="/src/assets/home/historias-de-exito/Jessica-Perez@2x.png"
+                          src="home/historias-de-exito/Jessica-Perez@2x.png"
                           alt="Bonnie image"
                         />
                         <h5 className="roboto-medium mb-8 text-30 text-black ">
@@ -113,7 +113,7 @@ function Root() {
                       <div className="flex flex-col items-center">
                         <img
                           className="w-49 h-49 mb-8 rounded-full shadow-lg"
-                          src="/src/assets/home/historias-de-exito/Stephanie-De-Sales@2x.png"
+                          src="home/historias-de-exito/Stephanie-De-Sales@2x.png"
                           alt="Bonnie image"
                         />
                         <h5 className="roboto-medium mb-8 text-30 text-black ">
@@ -144,7 +144,7 @@ function Root() {
                 <div className="w-full max-w-[120.8rem] mx-auto px-6">
                   <article className="w-full bg-mercury rounded-40 p-8 mb-8">
                     <div className="flex items-center gap-x-10 lg:gap-x-28">
-                      <img src="/src/assets/home/libros/ni-juniors-ni-seniors-perennials@2x.png" className="w-69 h-95"  alt="libro" />
+                      <img src="home/libros/ni-juniors-ni-seniors-perennials@2x.png" className="w-69 h-95"  alt="libro" />
 
                       <div className="block w-full max-w-[57.2rem]">
                         <h2 className="text-pigment-indigo-900 roboto-medium text-30 mb-8">
@@ -163,7 +163,7 @@ function Root() {
                   </article>
                   <article className="w-full bg-mercury rounded-40 p-8 mb-8">
                     <div className="flex items-center gap-x-10 lg:gap-x-28">
-                      <img src="/src/assets/home/libros/mujer-perennial@2x.png" className="w-69 h-95"  alt="libro" />
+                      <img src="home/libros/mujer-perennial@2x.png" className="w-69 h-95"  alt="libro" />
 
                       <div className="block w-full max-w-[57.2rem]">
                         <h2 className="text-pigment-indigo-900 roboto-medium text-30 mb-8">
@@ -182,7 +182,7 @@ function Root() {
                   </article>
                   <article className="w-full bg-mercury rounded-40 p-8 mb-8">
                     <div className="flex items-center gap-x-10 lg:gap-x-28">
-                      <img src="/src/assets/home/libros/transformate-y-vuela@2x.png" className="w-69 h-95"  alt="libro" />
+                      <img src="home/libros/transformate-y-vuela@2x.png" className="w-69 h-95"  alt="libro" />
 
                       <div className="block w-full max-w-[57.2rem]">
                         <h2 className="text-pigment-indigo-900 roboto-medium text-30 mb-8">
@@ -201,7 +201,7 @@ function Root() {
                   </article>
                   <article className="w-full bg-mercury rounded-40 p-8 mb-8">
                     <div className="flex items-center gap-x-10 lg:gap-x-28">
-                      <img src="/src/assets/home/libros/etiqueta-moderna@2x.png" className="w-69 h-95"  alt="libro" />
+                      <img src="home/libros/etiqueta-moderna@2x.png" className="w-69 h-95"  alt="libro" />
 
                       <div className="block w-full max-w-[57.2rem]">
                         <h2 className="text-pigment-indigo-900 roboto-medium text-30 mb-8">

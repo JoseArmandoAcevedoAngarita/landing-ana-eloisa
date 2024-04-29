@@ -15,8 +15,8 @@ function PerennialMovement() {
               <div className="w-full h-[64rem] md:h-[86rem] bg-pigment-indigo-900 relative overflow-hidden">
                 <div className="flex items-center h-full w-full max-w-[120.8rem] mx-auto px-6 gap-x-4">
 
-                  <img src="/src/assets/home/movimiento-perennial.png" className="w-[36rem]  md:w-[68rem] md:h-[18rem]" alt="Movimineto perennial" />
-                  <img src="/src/assets/home/main-banner/ana-banner@2x.png" className="w-auto h-[48rem] md:h-[76rem] self-end" alt="ana loisa" />
+                  <img src="home/movimiento-perennial.png" className="w-[36rem]  md:w-[68rem] md:h-[18rem]" alt="Movimineto perennial" />
+                  <img src="home/main-banner/ana-banner@2x.png" className="w-auto h-[48rem] md:h-[76rem] self-end" alt="ana loisa" />
                   
                 </div>
               </div>
@@ -67,7 +67,7 @@ function PerennialMovement() {
  
               <div className="w-full bg-gradient-periwinkle-gray h-auto md:h-[58rem] py-20">
                 <div className="w-full h-full flex justify-center items-center">
-                  <img src="/src/assets/home/ana-loaisa-02.png" className="w-auto h-[68.4rem] hidden md:block" alt="person-02" />
+                  <img src="home/ana-loaisa-02.png" className="w-auto h-[68.4rem] hidden md:block" alt="person-02" />
                   <div className="w-full max-w-[92.8rem] px-6">
                     <h1 className="text-40 leading-[5.6rem] md:text-80 md:leading-[9.6rem] text-pigment-indigo-900 roboto-bold mb-5">
                       PROPÓSITO SUPERIOR:
@@ -164,7 +164,7 @@ function PerennialMovement() {
                         </li>
                       </ul>
                     </div>
-                    <img src="/src/assets/home/ana-loaisa-03.png" className="w-auto h-[80rem] hidden md:block" alt="Ana loaisa" />
+                    <img src="home/ana-loaisa-03.png" className="w-auto h-[80rem] hidden md:block" alt="Ana loaisa" />
                   </div>
                 </div>
               </div>
@@ -202,11 +202,11 @@ function PerennialMovement() {
                   </h1>
 
                   <div className="flex items-center gap-x-12">
-                    <img src="/src/assets/home/people-02.png" className="w-[57.2rem] h-auto hidden md:block" alt="mentalidad perennial" />
+                    <img src="home/people-02.png" className="w-[57.2rem] h-auto hidden md:block" alt="mentalidad perennial" />
                     <div className="block mb-25 md:mb-0">
                       <div className="flex items-center gap-4 mb-8">
                         <div className="flex justify-center items-center w-20 h-20 flex-shrink-0">
-                          <img src="/src/assets/home/pennial-mind/icono-01@2x.png" className="w-20 h-20 bg-cover" alt="" />
+                          <img src="home/pennial-mind/icono-01@2x.png" className="w-20 h-20 bg-cover" alt="" />
                         </div>
                         <p className="text-20 text-pigment-indigo-900 leading-[2.4rem]">
                           <span className="roboto-bold">Tienen una positiva hacia la vida</span> y ven el envejecimiento como una oportunidad para crecer y aprender.
@@ -214,7 +214,7 @@ function PerennialMovement() {
                       </div>
                       <div className="flex items-center gap-4 mb-8">
                         <div className="flex justify-center items-center w-20 h-20 flex-shrink-0">
-                          <img src="/src/assets/home/pennial-mind/icono-02@2x.png" className="w-20 h-20 bg-cover" alt="" />
+                          <img src="home/pennial-mind/icono-02@2x.png" className="w-20 h-20 bg-cover" alt="" />
 
                         </div>
                         <p className="text-20 text-pigment-indigo-900 leading-[2.4rem]">
@@ -223,7 +223,7 @@ function PerennialMovement() {
                       </div>
                       <div className="flex items-center gap-4 mb-8">
                         <div className="flex justify-center items-center w-20 h-20 flex-shrink-0">
-                          <img src="/src/assets/home/pennial-mind/icono-03@2x.png" className="w-20 h-20 bg-cover" alt="" />
+                          <img src="home/pennial-mind/icono-03@2x.png" className="w-20 h-20 bg-cover" alt="" />
 
                         </div>
                         <p className="text-20 text-pigment-indigo-900 leading-[2.4rem]">
@@ -232,7 +232,7 @@ function PerennialMovement() {
                       </div>
                       <div className="flex items-center gap-4 mb-8">
                         <div className="flex justify-center items-center w-20 h-20 flex-shrink-0">
-                          <img src="/src/assets/home/pennial-mind/icono-04@2x.png" className="w-20 h-20 bg-cover" alt="" />
+                          <img src="home/pennial-mind/icono-04@2x.png" className="w-20 h-20 bg-cover" alt="" />
 
                         </div>
                         <p className="text-20 text-pigment-indigo-900 leading-[2.4rem]">
@@ -241,7 +241,7 @@ function PerennialMovement() {
                       </div>
                       <div className="flex items-center gap-4 mb-8">
                         <div className="flex justify-center items-center w-20 h-20 flex-shrink-0">
-                          <img src="/src/assets/home/pennial-mind/icono-05@2x.png" className="w-20 h-20 bg-cover" alt="" />
+                          <img src="home/pennial-mind/icono-05@2x.png" className="w-20 h-20 bg-cover" alt="" />
 
                         </div>
                         <p className="text-20 text-pigment-indigo-900 leading-[2.4rem]">
@@ -262,7 +262,7 @@ function PerennialMovement() {
                   <article className="bg-mercury px-20 pt-15">
                     <figure className="text-pigment-indigo-900 mb-12">
                       <div className="w-38 h-38 md:w-51 md:h-51 mb-6 mx-auto">
-                        <img src="/src/assets/home/pennial-mind/icono-06@2x.png" alt="icono-06" />
+                        <img src="home/pennial-mind/icono-06@2x.png" alt="icono-06" />
                       </div>
                       <h1 className="text-center text-40 roboto-bold leading-[4.4rem] mb-6">
                         ¿Cómo es el estilo de vida Perennial?
@@ -275,7 +275,7 @@ function PerennialMovement() {
                   <article className="bg-mercury px-20 pt-15">
                     <figure className="text-pigment-indigo-900 mb-12">
                       <div className="w-38 h-38 md:w-51 md:h-51 mb-6 mx-auto">
-                        <img src="/src/assets/home/pennial-mind/icono-08@2x.png" alt="icono-06" />
+                        <img src="home/pennial-mind/icono-08@2x.png" alt="icono-06" />
                       </div>
                       <h1 className="text-center text-40 roboto-bold leading-[4.4rem] mb-6">
                         ¿Qué inspira a un Perennial?
@@ -288,7 +288,7 @@ function PerennialMovement() {
                   <article className="bg-mercury px-20 pt-15">
                     <figure className="text-pigment-indigo-900 mb-12">
                       <div className="w-38 h-38 md:w-51 md:h-51 mb-6 mx-auto">
-                        <img src="/src/assets/home/pennial-mind/icono-07@2x.png" alt="icono-06" />
+                        <img src="home/pennial-mind/icono-07@2x.png" alt="icono-06" />
                       </div>
                       <h1 className="text-center text-40 roboto-bold leading-[4.4rem] mb-6">
                         ¿Con qué sueña un Perennial?
@@ -301,7 +301,7 @@ function PerennialMovement() {
                   <article className="bg-mercury px-20 pt-15">
                     <figure className="text-pigment-indigo-900 mb-12">
                       <div className="w-38 h-38 md:w-51 md:h-51 mb-6 mx-auto">
-                        <img src="/src/assets/home/pennial-mind/icono-09@2x.png" alt="icono-06" />
+                        <img src="home/pennial-mind/icono-09@2x.png" alt="icono-06" />
                       </div>
                       <h1 className="text-center text-40 roboto-bold leading-[4.4rem] mb-6">
                         ¿Son los Perennial una Generación?
