@@ -42,7 +42,7 @@ export const Footer = () => {
                     <FontAwesomeIcon icon={['far', 'envelope']} className="w-8 h-8 text-white" />
                   </div>
                 </a> */}
-                <a href="" className="bg-white p-5 rounded-20 shadow">
+                <a href="https://www.linkedin.com/in/anaeloisazunigabonfante?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="bg-white p-5 rounded-20 shadow">
                   <div className="w-15 h-15 flex justify-center items-center rounded-full bg-pigment-indigo-900 text-white">
                     <FontAwesomeIcon icon={['fab', 'linkedin-in']} className="w-8 h-8 text-white" />
                   </div>

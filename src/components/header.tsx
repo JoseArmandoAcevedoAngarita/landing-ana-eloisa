@@ -13,7 +13,7 @@ export const Header = () => {
           <a href="#">
             <FontAwesomeIcon icon={['fab', 'facebook']} className="w-10 h-10 md:w-5 md:h-5 text-white" />
           </a> */}
-          <a href="#">
+          <a href="https://www.linkedin.com/in/anaeloisazunigabonfante?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
             <FontAwesomeIcon icon={['fab', 'linkedin']} className="w-10 h-10 md:w-5 md:h-5 text-white" />
           </a>
          {/*  <a href="#">
