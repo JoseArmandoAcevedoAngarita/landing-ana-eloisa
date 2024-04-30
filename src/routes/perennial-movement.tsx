@@ -1,4 +1,5 @@
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { ScrollRestoration } from 'react-router-dom';
 import { Footer } from '../components/footer';
 import { Header } from '../components/header';
 
@@ -6,6 +7,8 @@ function PerennialMovement() {
 
   return (
     <>
+
+    <ScrollRestoration />
     
       <div className="flex flex-col h-full">
         <Header/>

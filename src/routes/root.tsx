@@ -1,12 +1,13 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Footer } from '../components/footer';
 import { Header } from '../components/header';
+import { Link, ScrollRestoration } from 'react-router-dom';
 
 function Root() {
 
   return (
     <>
-
+      <ScrollRestoration />
       <div className="flex flex-col h-full">
         <Header/>
           <main role="main" className="flex-grow">
@@ -50,10 +51,10 @@ function Root() {
                     </p>
                   </figure>
                   <footer>
-                    <a href="/movimiento-perennial" className="inline-flex items-center gap-x-5 text-white bg-pigment-indigo-700 hover:bg-pigment-indigo-600 focus:ring-4 focus:ring-pigment-indigo-300 roboto-medium rounded-20 text-30 px-8 py-5 focus:outline-none leading-[3.6rem] ">
+                    <Link to="/movimiento-perennial" className="inline-flex items-center gap-x-5 text-white bg-pigment-indigo-700 hover:bg-pigment-indigo-600 focus:ring-4 focus:ring-pigment-indigo-300 roboto-medium rounded-20 text-30 px-8 py-5 focus:outline-none leading-[3.6rem] ">
                       <span>Más de perennials</span>
                       <FontAwesomeIcon icon={['far', 'arrow-right']} className="w-8 h-8 text-white" />
-                    </a>
+                    </Link>
                   </footer>
                 </article>
               </div>

@@ -1,4 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { Link } from 'react-router-dom';
 
 export const Header = () => {
 
@@ -23,9 +24,9 @@ export const Header = () => {
       <header>
         <nav className="bg-white p-5 w-full">
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-[122rem]">
-            <a href="/" className="flex items-center">
+            <Link to="/" className="flex items-center">
               <img src="logos/logo@2x.png" className="w-auto h-20" alt="Ana loaisa Logo" />
-            </a>
+            </Link>
             
             <div className="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
               <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
